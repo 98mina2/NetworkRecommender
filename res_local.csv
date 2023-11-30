@@ -1,0 +1,8 @@
+similarity_measure,accuracy,precision,recall,f1,roc_auc
+adamic_adar_indices,0.971,0.975,0.99,0.982,0.943
+hub_promoted,0.97,0.973,0.99,0.981,0.941
+common_neighbors,0.968,0.972,0.988,0.98,0.937
+jaccard_coefficients,0.957,0.957,0.991,0.974,0.906
+hub_depressed,0.955,0.956,0.989,0.972,0.904
+leicht_holme_newman,0.956,0.952,0.995,0.973,0.898
+preferential_attachment,0.924,0.94,0.967,0.953,0.859
